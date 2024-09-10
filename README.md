@@ -48,5 +48,5 @@ The various git manpages and git cheat sheets
 - check if package exist: 'which'
 
 
-## Here's some potatoes
+## Here are some potatoes
 ![potatoes.](https://www.marthastewart.com/thmb/ZYCJj5A1c7Ks7EBUuc4t_LsBmag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-potatoes-0102-f992a0f47757490192052972030a6946.jpg)
